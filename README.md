@@ -10,6 +10,7 @@ Issue #1 - if the other user stops typing, "typing a message..." is still displa
 
 ## How to run the code?
 
-The code will open on localhost:4000.
-
 > nodemon index
+
+
+The code will open on localhost:4000.
